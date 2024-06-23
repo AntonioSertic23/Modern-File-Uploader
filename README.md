@@ -9,8 +9,6 @@ A modern file uploader built with HTML, CSS, JavaScript, and PHP. This project a
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Usage](#usage)
-- [License](#license)
-- [Author](#author)
 
 ## Demo
 
